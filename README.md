@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @KingRoger19, tech addicted and wannabe cloud solution architect
-- 👀 I’m interested in data analytics, cloud architecture and cloud solutions, devops and so many many other wonderful stuffs
-- 🌱 I’m currently learning the stunning cloud world
-- 💞️ I’m looking to collaborate on cloud solutions architecture, devops and CI/CD
+- 👋 Hi, I’m @KingRoger19, sport, tech and data addicted and wannabe 2h20 marathon runner!
+- 👀 I’m interested in data analytics, AI&ML, data strategy and cloud architecture
+- 🌱 I’m currently learning how to adopt the Norwegian Methond defined by Marius Bakken to my current marathon preparation
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/gabriroggero/) and [Gmail](mailto:gabriele.roggero@gmail.com)
 
 <!---
